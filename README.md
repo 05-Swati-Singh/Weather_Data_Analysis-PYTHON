@@ -25,8 +25,7 @@ The dataset comprises the following columns:
 
 ## Repository Structure
 - **dataset/**: Directory containing the dataset files.
-- **notebooks/**: Jupyter notebooks used for the analysis.
-- **results/**: Directory for storing results of the analysis.
+- **weather analysis project/**: Jupyter notebooks used for the analysis.
 - **README.md**: Overview of the project and analysis performed (this file).
 
 ## Getting Started
